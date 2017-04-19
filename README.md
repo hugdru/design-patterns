@@ -1,0 +1,14 @@
+**Sources**
+- https://github.com/kamranahmedse/design-patterns-for-humans
+- https://sourcemaking.com/design_patterns
+- http://wiki.c2.com
+- http://www.dofactory.com
+- http://www.oodesign.com
+- http://wiki.c2.com/?NullObjectExamples
+- http://wiki.c2.com/?DesignPatternsBook
+- http://www.dofactory.com/net/factory-method-design-pattern
+- http://www.dofactory.com/net/abstract-factory-design-pattern
+- http://www.avajava.com/tutorials/lessons/observer-pattern.html
+- https://www.codeproject.com/Articles/479635/UnderstandingplusandplusImplementingplusDecoratorp
+- http://www.journaldev.com/1734/memento-design-pattern-java
+- https://softwareengineering.stackexchange.com/questions/253398/the-observer-pattern-using-the-pulling-mechanism

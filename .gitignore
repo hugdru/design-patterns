@@ -1,0 +1,5 @@
+.idea/
+out/
+bin/
+designPatterns.iml
+!ide/**
